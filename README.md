@@ -53,7 +53,8 @@ data lessons in course of php(DevStart)
 :heavy_check_mark: [presentation]("./aula-00/index.php") ;\
 :heavy_check_mark: [recive data input]("./aula-01/index.php");\
 :heavy_check_mark: [if and else]("./aula-02/index.php");\
-:heavy_check_mark: [variables]("./aula-02/variaveis.php");
+:heavy_check_mark: [variables]("./aula-02/variaveis.php");\
+:heavy_check_mark: [consts]("./aula-02/constantes.php");
 
 
 ## :rocket: Technologies ##
@@ -76,6 +77,10 @@ cd beacademy-devstart-php-introducao
 
 # run sever local, insert your folder in {{ aula-02 }} 
 php -S localhost:8000 -t aula-02
+
+# for file specific, added name your file 
+# ex {{ variaveis.php }}
+http://localhost:8000/variaveis.php
 ```
 
 ## :memo: License ##
