@@ -46,25 +46,37 @@
 
 ## :dart: About ##
 
-Describe your project
+data lessons in course of php(DevStart) 
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: [presentation]("./aula-00/index.php") ;\
+:heavy_check_mark: [recive data input]("./aula-01/index.php");\
+:heavy_check_mark: [if and else]("./aula-02/index.php");\
+:heavy_check_mark: [variables]("./aula-02/variaveis.php");
+
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
+- [PHP](https://www.php.net/)
 
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [PHP](https://www.php.net/) installed.
 
 ## :checkered_flag: Starting ##
--------------------
+```bash
+# clone project
+git clone https://github.com/LeoScripts/LeoScripts-beacademy-devstart-php-introducao.git
+
+# access folder
+cd LeoScripts-beacademy-devstart-php-introducao
+
+# run sever local, insert your folder in {{ aula-02 }} 
+php -S localhost:8000 -t aula-02
+```
 
 ## :memo: License ##
 
