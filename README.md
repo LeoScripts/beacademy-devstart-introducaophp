@@ -69,10 +69,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 ## :checkered_flag: Starting ##
 ```bash
 # clone project
-git clone https://github.com/LeoScripts/LeoScripts-beacademy-devstart-php-introducao.git
+git clone https://github.com/LeoScripts/beacademy-devstart-php-introducao.git
 
 # access folder
-cd LeoScripts-beacademy-devstart-php-introducao
+cd beacademy-devstart-php-introducao
 
 # run sever local, insert your folder in {{ aula-02 }} 
 php -S localhost:8000 -t aula-02
