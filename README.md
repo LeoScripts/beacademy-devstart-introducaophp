@@ -66,6 +66,7 @@ data lessons in course of php(DevStart)
 :heavy_check_mark: [for(para)]("./aula-05/for.php");\
 :heavy_check_mark: [exercice year month day(exercio ano mes dia)]("./aula-05/exercicio-loop.php");\
 :heavy_check_mark: [do while(faça enquanto)]("./aula-05/do-while.php");\
+:heavy_check_mark: [array(vetor)]("./aula-05/do-while.php");
 
 ## :rocket: Technologies ##
 
@@ -91,8 +92,9 @@ php -S localhost:8000 -t aula-02
 # for file specific, added name your file 
 # ex {{ variaveis.php }}
 http://localhost:8000/variaveis.php
-```
 
+```
+[other intructions]("./doc.md") 
 ## :memo: License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
