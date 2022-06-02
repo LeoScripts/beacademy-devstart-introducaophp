@@ -50,12 +50,17 @@ data lessons in course of php(DevStart)
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: [presentation]("./aula-00/index.php") ;\
-:heavy_check_mark: [recive data input]("./aula-01/index.php");\
-:heavy_check_mark: [if and else]("./aula-02/index.php");\
-:heavy_check_mark: [variables]("./aula-02/variaveis.php");\
-:heavy_check_mark: [consts]("./aula-02/constantes.php");
-
+:heavy_check_mark: [presentation(apresentação)]("./aula-00/index.php") ;\
+:heavy_check_mark: [recive data input(recebe dados do input)]("./aula-01/index.php");\
+:heavy_check_mark: [if and else(se e senao - aula 2)]("./aula-02/index.php");\
+:heavy_check_mark: [variables(variaveis)]("./aula-02/variaveis.php");\
+:heavy_check_mark: [consts(constantes)]("./aula-02/constantes.php");\
+:heavy_check_mark: [increment and decrement(incremento e decremento)]("./aula-03/index.php");\
+:heavy_check_mark: [operators(operadores)]("./aula-03/operadores.php");\
+:heavy_check_mark: [concat(concatenar)]("./aula-03/concatenacao.php");\
+:heavy_check_mark: [if ternary(se ternario)]("./aula-03/ternario.php");\
+:heavy_check_mark: [if variables(se variados)]("./aula-03/se.php");\
+:heavy_check_mark: [switch case(troca caso)]("./aula-03/switch.php");\
 
 ## :rocket: Technologies ##
 

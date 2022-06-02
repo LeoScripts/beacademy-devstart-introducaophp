@@ -28,6 +28,3 @@ echo $idade >= 18 ? "
   </tbody>
 </table>
 " : " <h2>$nome é de menor</h2> ";
-
-
-
