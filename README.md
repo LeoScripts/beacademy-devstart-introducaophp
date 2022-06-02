@@ -65,6 +65,7 @@ data lessons in course of php(DevStart)
 :heavy_check_mark: [while(enquanto)]("./aula-05/while.php");\
 :heavy_check_mark: [for(para)]("./aula-05/for.php");\
 :heavy_check_mark: [exercice year month day(exercio ano mes dia)]("./aula-05/exercicio-loop.php");\
+:heavy_check_mark: [do while(faça enquanto)]("./aula-05/do-while.php");\
 
 ## :rocket: Technologies ##
 
