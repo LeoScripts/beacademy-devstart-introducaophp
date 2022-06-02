@@ -50,22 +50,22 @@ data lessons in course of php(DevStart)
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: [presentation(apresentação)]("./aula-00/index.php") ;\
-:heavy_check_mark: [recive data input(recebe dados do input)]("./aula-01/index.php");\
-:heavy_check_mark: [if and else(se e senao - aula 2)]("./aula-02/index.php");\
-:heavy_check_mark: [variables(variaveis)]("./aula-02/variaveis.php");\
-:heavy_check_mark: [consts(constantes)]("./aula-02/constantes.php");\
-:heavy_check_mark: [increment and decrement(incremento e decremento)]("./aula-03/index.php");\
-:heavy_check_mark: [operators(operadores)]("./aula-03/operadores.php");\
-:heavy_check_mark: [concat(concatenar)]("./aula-03/concatenacao.php");\
-:heavy_check_mark: [if ternary(se ternario)]("./aula-03/ternario.php");\
-:heavy_check_mark: [if variables(se variados)]("./aula-04/se.php");\
-:heavy_check_mark: [switch case(troca caso)]("./aula-04/switch.php");\
-:heavy_check_mark: [match(combine - melhor condicional)]("./aula-04/match.php");\
-:heavy_check_mark: [while(enquanto)]("./aula-05/while.php");\
-:heavy_check_mark: [for(para)]("./aula-05/for.php");\
-:heavy_check_mark: [exercice year month day(exercio ano mes dia)]("./aula-05/exercicio-loop.php");\
-:heavy_check_mark: [do while(faça enquanto)]("./aula-05/do-while.php");\
+:heavy_check_mark: [presentation(apresentação)](./aula-00/index.php) ;\
+:heavy_check_mark: [recive data input(recebe dados do input)](./aula-01/index.php);\
+:heavy_check_mark: [if and else(se e senao - aula 2)](./aula-02/index.php);\
+:heavy_check_mark: [variables(variaveis)](./aula-02/variaveis.php);\
+:heavy_check_mark: [consts(constantes)](./aula-02/constantes.php);\
+:heavy_check_mark: [increment and decrement(incremento e decremento)](./aula-03/index.php);\
+:heavy_check_mark: [operators(operadores)](./aula-03/operadores.php);\
+:heavy_check_mark: [concat(concatenar)](./aula-03/concatenacao.php);\
+:heavy_check_mark: [if ternary(se ternario)](./aula-03/ternario.php);\
+:heavy_check_mark: [if variables(se variados)](./aula-04/se.php);\
+:heavy_check_mark: [switch case(troca caso)](./aula-04/switch.php);\
+:heavy_check_mark: [match(combine - melhor condicional)](./aula-04/match.php);\
+:heavy_check_mark: [while(enquanto)](./aula-05/while.php);\
+:heavy_check_mark: [for(para)](./aula-05/for.php);\
+:heavy_check_mark: [exercice year month day(exercio ano mes dia)](./aula-05/exercicio-loop.php);\
+:heavy_check_mark: [do while(faça enquanto)](./aula-05/do-while.php);\
 :heavy_check_mark: [array(vetor)](./aula-05/do-while.php);
 
 ## :rocket: Technologies ##
@@ -94,7 +94,7 @@ php -S localhost:8000 -t aula-02
 http://localhost:8000/variaveis.php
 
 ```
-[other intructions]("./doc.md") 
+[other intructions](./doc.md) 
 ## :memo: License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
