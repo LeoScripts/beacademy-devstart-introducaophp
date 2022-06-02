@@ -59,8 +59,12 @@ data lessons in course of php(DevStart)
 :heavy_check_mark: [operators(operadores)]("./aula-03/operadores.php");\
 :heavy_check_mark: [concat(concatenar)]("./aula-03/concatenacao.php");\
 :heavy_check_mark: [if ternary(se ternario)]("./aula-03/ternario.php");\
-:heavy_check_mark: [if variables(se variados)]("./aula-03/se.php");\
-:heavy_check_mark: [switch case(troca caso)]("./aula-03/switch.php");\
+:heavy_check_mark: [if variables(se variados)]("./aula-04/se.php");\
+:heavy_check_mark: [switch case(troca caso)]("./aula-04/switch.php");\
+:heavy_check_mark: [match(combine - melhor condicional)]("./aula-04/match.php");\
+:heavy_check_mark: [while(enquanto)]("./aula-05/while.php");\
+:heavy_check_mark: [for(para)]("./aula-05/for.php");\
+:heavy_check_mark: [exercice year month day(exercio ano mes dia)]("./aula-05/exercicio-loop.php");\
 
 ## :rocket: Technologies ##
 

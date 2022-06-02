@@ -4,6 +4,7 @@
 </form>
 
 <?php
+// estrutura de decisao melhor
 
 $mes = $_POST['mes'];
 // var_dump ($mes);
