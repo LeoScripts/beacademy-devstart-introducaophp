@@ -70,7 +70,8 @@ data lessons in course of php(DevStart)
 :heavy_check_mark: [array-fruits(array de frutas)](./aula-06/frutas.php);\
 :heavy_check_mark: [array-bands(array de bandas)](./aula-06/bandas.php);\
 :heavy_check_mark: [exercice-array-bands(exercicio array de bandas)](./aula-06/bandas-exercicio.php);\
-:heavy_check_mark: [exercice-array-bands(exercicio array de bandas)](./aula-07/alunos.php);\
+:heavy_check_mark: [array in array(array dentro de array)](./aula-07/alunos.php);\
+:heavy_check_mark: [array associate(array associado)](./aula-07/alunos.php);\
 
 ## :rocket: Technologies ##
 
