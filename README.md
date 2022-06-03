@@ -74,6 +74,9 @@ data lessons in course of php(DevStart)
 :heavy_check_mark: [array associate(array associativo)](./aula-07/dados.php);\
 :heavy_check_mark: [exercice table(exercicio tabelas)](./aula-07/exercicio-tabela.php);\
 :heavy_check_mark: [challenge products(desafio produtos)](./aula-07/desafio-produtos.php);\
+:heavy_check_mark: [get](./aula-08/get.php);\
+:heavy_check_mark: [post](./aula-08/post.php);\
+:heavy_check_mark: [server](./aula-08/server.php);\
 
 ## :rocket: Technologies ##
 
