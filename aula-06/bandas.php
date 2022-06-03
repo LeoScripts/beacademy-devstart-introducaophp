@@ -1,13 +1,16 @@
 <?php
 
 $bandas = [
-  'oficina g3',
-  '4 por 1',
-  'ministerio apascentar',
-  'adoradores'
+  'oficina g3', //0
+  '4 por 1', // 1
+  'ministerio apascentar', // 2
+  'adoradores' // 3
 ];
 
 $bandas[5] = 'preto no branco';
+
+// reatribuindo bando de indice 2
+$bandas[2] = 'banda de eli soares';
 
 // exibindo sem uso da tag hrml
 // renderizando usando o form pra renderizar

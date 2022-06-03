@@ -69,6 +69,7 @@ data lessons in course of php(DevStart)
 :heavy_check_mark: [array(vetor)](./aula-06/arrays.php);\
 :heavy_check_mark: [array-fruits(array de frutas)](./aula-06/frutas.php);\
 :heavy_check_mark: [array-bands(array de bandas)](./aula-06/bandas.php);\
+:heavy_check_mark: [exercice-array-bands(exercicio array de bandas)](./aula-06/bandas-exercicio.php);\
 
 ## :rocket: Technologies ##
 
