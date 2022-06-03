@@ -77,6 +77,7 @@ data lessons in course of php(DevStart)
 :heavy_check_mark: [get](./aula-08/get.php);\
 :heavy_check_mark: [post](./aula-08/post.php);\
 :heavy_check_mark: [server](./aula-08/server.php);\
+:heavy_check_mark: [routes (rotas)](./aula-08/index.php);\
 
 ## :rocket: Technologies ##
 
