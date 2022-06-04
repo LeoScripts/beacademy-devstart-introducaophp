@@ -85,6 +85,7 @@ data lessons in course of php(DevStart)
 :heavy_check_mark: [natives finction php (funçoes nativas do php)](./aula-10/index.php);\
 :heavy_check_mark: [natives finction php for strings(funçoes nativas para strings)](./aula-10/strings.php);\
 :heavy_check_mark: [date (funçoes data)](./aula-10/data.php);\
+:heavy_check_mark: [password base64 (senha base64)](./aula-10/data.php);\
 
 ## :rocket: Technologies ##
 
