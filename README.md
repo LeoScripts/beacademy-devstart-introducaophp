@@ -66,6 +66,7 @@ data lessons in course of php(DevStart)
 :heavy_check_mark: [for(para)](./aula-05/for.php);\
 :heavy_check_mark: [exercice year month day(exercio ano mes dia)](./aula-05/exercicio-loop.php);\
 :heavy_check_mark: [do while(faça enquanto)](./aula-05/do-while.php);\
+:heavy_check_mark: [forEach](./aula-05/forEach.php);\
 :heavy_check_mark: [array(vetor)](./aula-06/arrays.php);\
 :heavy_check_mark: [array-fruits(array de frutas)](./aula-06/frutas.php);\
 :heavy_check_mark: [array-bands(array de bandas)](./aula-06/bandas.php);\
