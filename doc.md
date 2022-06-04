@@ -29,3 +29,8 @@
 
 ## sites indicados 
 - [unDraw]() - banco de imagens
+
+## arquivo csv
+- csv = e um padrao de arquivo que coloca as informações das colunas separadas por virgula(,) ou ponto e virgula(;)
+- porq usamos csv 
+  > geralmente exportamos o dados de planilhas para arquivos csv pra que sejam usados em outros sistemas 
