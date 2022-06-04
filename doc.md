@@ -23,5 +23,8 @@
   echo "Ola PHP"; echo " me chamo Leandro";
   ```
 - virgula(`,`) no php se colocarmos 10,5 o retorno ser 105 em questao a numeros
-- ponto(`.`) se colocarmos 10.5 o retorno sera 10.5 porque geralmente os padroes de liguagens por isso o modelo americano 
+- ponto(`.`) se colocarmos 10.5 o retorno sera 10.5 porque geralmente os padroes de liguagens por isso o modelo americano
+- `.PHP_EOL` = e uma quebra de linha dentro do terminal 
 
+## sites indicados 
+- [unDraw]() - banco de imagens
