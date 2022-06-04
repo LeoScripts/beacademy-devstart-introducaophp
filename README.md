@@ -87,6 +87,7 @@ data lessons in course of php(DevStart)
 :heavy_check_mark: [date (funçoes data)](./aula-10/data.php);\
 :heavy_check_mark: [password base64 (senha base64)](./aula-10/senha.php);\
 :heavy_check_mark: [password md5 (senha md5)](./aula-10/senha-md5.php);\
+:heavy_check_mark: [password argon2 (senha argon2)](./aula-10/senha-argon2.php);\
 
 ## :rocket: Technologies ##
 
