@@ -82,6 +82,7 @@ data lessons in course of php(DevStart)
 :heavy_check_mark: [function (função)](./aula-09-funcoes/index.php);\
 :heavy_check_mark: [typing (tipando)](./aula-09-funcoes/tipos.php);\
 :heavy_check_mark: [functions and types (funçoes e tipos)](./aula-09/funcao-array.php);\
+:heavy_check_mark: [natives finction php (funçoes nativas do php)](./aula-10/index.php);\
 
 ## :rocket: Technologies ##
 
