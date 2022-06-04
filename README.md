@@ -78,6 +78,10 @@ data lessons in course of php(DevStart)
 :heavy_check_mark: [post](./aula-08/post.php);\
 :heavy_check_mark: [server](./aula-08/server.php);\
 :heavy_check_mark: [routes (rotas)](./aula-08/index.php);\
+:heavy_check_mark: [sisten in mvc (sistem em mvc)](./aula-09/index.php);\
+:heavy_check_mark: [function (função)](./aula-09-funcoes/index.php);\
+:heavy_check_mark: [typing (tipando)](./aula-09-funcoes/tipos.php);\
+:heavy_check_mark: [functions and types (funçoes e tipos)](./aula-09/funcao-array.php);\
 
 ## :rocket: Technologies ##
 
