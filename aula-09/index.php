@@ -1,20 +1,10 @@
 <?php
-//controlador => controller
 
-// armarzenado em url
-$url = $_SERVER['REQUEST_URI'];
+// organizar na ordem literal de montagem da estrutura do arquivo
 
 include 'views/components/head.php';
+
 include 'views/components/menu.php';
-include 'acoes.php';
-
-match ($url) {
-  '/' => home(), 
-  '/login' => login(),
-  '/cadastro' => cadastro(),
-  '/listar' => listar(),
-  default => erro404(),
-};
-
+include 'routes/routes.php';
 
 include 'viws/components/footer.php';
