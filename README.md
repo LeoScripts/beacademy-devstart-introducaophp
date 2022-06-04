@@ -84,6 +84,7 @@ data lessons in course of php(DevStart)
 :heavy_check_mark: [functions and types (funçoes e tipos)](./aula-09/funcao-array.php);\
 :heavy_check_mark: [natives finction php (funçoes nativas do php)](./aula-10/index.php);\
 :heavy_check_mark: [natives finction php for strings(funçoes nativas para strings)](./aula-10/strings.php);\
+:heavy_check_mark: [date (funçoes data)](./aula-10/data.php);\
 
 ## :rocket: Technologies ##
 
