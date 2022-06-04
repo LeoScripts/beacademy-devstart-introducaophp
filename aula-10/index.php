@@ -45,13 +45,13 @@ function media3(array $notas): float
 
 echo media($notasA);
 
-echo '<br>';
+echo '<br>';// quebra de linha front
 PHP_EOL. '-----------------' .PHP_EOL;
 
 echo media($notasB);
 
 
-echo '<hr>'; // quebra de linha front
+echo '<hr>'; 
 PHP_EOL. '-----------------' .PHP_EOL; // quebra de linha back
 
 // execução do 2 segundo exemplo
