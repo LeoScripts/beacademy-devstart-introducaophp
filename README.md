@@ -90,7 +90,7 @@ data lessons in course of php(DevStart)
 :heavy_check_mark: [password argon2 (senha argon2)](./aula-10/senha-argon2.php);\
 :heavy_check_mark: [date (funçoes data)](./aula-10/explode.php);\
 :heavy_check_mark: [function file (funçoes de arquivo)](./aula-11/arquivo.php);\
-:heavy_check_mark: [function folder (funçoes de pastas)](./aula-11/arquivo.php);\
+:heavy_check_mark: [function folder (funçoes de pastas)](./aula-11/diretorio.php);\
 
 ## :rocket: Technologies ##
 
