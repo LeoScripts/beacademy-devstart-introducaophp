@@ -26,6 +26,7 @@
 - ponto(`.`) se colocarmos 10.5 o retorno sera 10.5 porque geralmente os padroes de liguagens por isso o modelo americano
 - `.PHP_EOL` = e uma quebra de linha dentro do terminal 
 - `php index.php` = executa o codigo no terminal
+- `php -a` = digitando scripts direto no terminal
 
 ## sites indicados 
 - [unDraw]() - banco de imagens
